@@ -1,4 +1,0 @@
-//Plik ktory ma komentarze
-W linijce wyzej byl komentarz
-W linijce ponizej tez jest komentarz
-//a tutaj sa
